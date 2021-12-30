@@ -244,6 +244,8 @@ margin: 5px 0 15px 0;
 .contact-info iframe {
     width: 400px;
     height: 400px;
+    float: left;
+    
 }
 .contact-info div {
     width: 410px;
@@ -263,10 +265,13 @@ margin: 5px 0 15px 0;
     line-height: 1.5;
     font-size: 20px;
     font-style: normal;
+    
 }
  .contact-info a {
     color: #fce138;
 }
+
+
     /* REACH OUT STYLES END */
 
   
